@@ -1,4 +1,4 @@
-# kryn
+# Basit Bir Alacak Verecek Uygulaması
 
 A new Flutter project.
 
